@@ -1,0 +1,6 @@
+C:\Users\Alex\source\repos\Übung_Alexander_Grunert\obj\Debug\Übung_Alexander_Grunert.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Übung_Alexander_Grunert\bin\Debug\Übung_Alexander_Grunert.exe.config
+C:\Users\Alex\source\repos\Übung_Alexander_Grunert\bin\Debug\Übung_Alexander_Grunert.exe
+C:\Users\Alex\source\repos\Übung_Alexander_Grunert\bin\Debug\Übung_Alexander_Grunert.pdb
+C:\Users\Alex\source\repos\Übung_Alexander_Grunert\obj\Debug\Übung_Alexander_Grunert.exe
+C:\Users\Alex\source\repos\Übung_Alexander_Grunert\obj\Debug\Übung_Alexander_Grunert.pdb
